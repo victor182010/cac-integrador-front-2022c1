@@ -1,0 +1,67 @@
+.nav-link {
+color: #ff0000;
+}
+.footer {
+    background-color: #1e516e;
+}
+
+.list-link {
+    list-style-type: none;
+}
+
+.footer-link {
+    list-style-type: none;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.footer-link:hover {
+    color: #fdc006;
+    border-radius: 0.5rem;
+    background-color: #1e516e;
+}
+.subrayado-Punto {
+    color: #222;
+    text-decoration: underline;/*subrallado*/
+    text-decoration-style: dotted;/*stilo de linea puntos*/
+}
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+.js {
+    font-size: 0.7rem; /*tamaño de la fuente*/
+    padding: 0.1rem 0.5rem 0.1rem 0.5rem;
+    border-radius: 0.3rem;
+    color: #222; /*color principal*/
+    background-color: #fdc006;/*color de fondo (elemento+pading)*/
+    font-weight: 600;/*el ancho de la fuente*/
+}
+.rt {
+    font-size: 0.7rem; /*tamaño de la fuente*/
+    padding: 0.1rem 0.5rem 0.1rem 0.5rem;
+    border-radius: 0.3rem;
+    color: rgb(248, 246, 246); /*color principal*/
+    background-color: #06d8fd;/*color de fondo (elemento+pading)*/
+    font-weight: 600;/*el ancho de la fuente*/  
+}
+.ns {
+    font-size: 0.7rem; /*tamaño de la fuente*/
+    padding: 0.1rem 0.5rem 0.1rem 0.5rem;
+    border-radius: 0.3rem;
+    color: rgb(248, 246, 246); /*color principal*/
+    background-color: #a5a9aa;/*color de fondo (elemento+pading)*/
+    font-weight: 600;/*el ancho de la fuente*/  
+}
+.ss {
+    font-size: 0.7rem; /*tamaño de la fuente*/
+    padding: 0.1rem 0.5rem 0.1rem 0.5rem;
+    border-radius: 0.3rem;
+    color: rgb(248, 246, 246); /*color principal*/
+    background-color: #fd2b06;/*color de fondo (elemento+pading)*/
+    font-weight: 600;/*el ancho de la fuente*/  
+}
